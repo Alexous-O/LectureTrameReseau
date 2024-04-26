@@ -34,7 +34,7 @@ Il s'agit d'un code qui a été fait durement mes études de BTS SNIR, il a ét�
 4. Run le project:
 
     ```bash
-  F5
+      F5
     ```
 
 ## Auteur 👨‍💻
