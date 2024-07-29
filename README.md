@@ -34,7 +34,7 @@ This is a code that was made during my BTS SNIR studies, it was used for other p
     ![Frame](https://github.com/user-attachments/assets/5add3ca0-c416-4d81-8e32-ecb1739a8913)
 
 3. Then launch the project
-   It's up to you to have fun
+   - It's up to you to have fun
 
 ## Author 👨‍💻
 The project was created by myself.
