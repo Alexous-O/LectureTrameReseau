@@ -29,11 +29,11 @@ This is a code that was made during my BTS SNIR studies, it was used for other p
     ```
     
 2. Open the project then start the analysis
-    - Paste the frame you want to analyze
+   Paste the frame you want to analyze
 
 ![Frame](https://github.com/user-attachments/assets/5add3ca0-c416-4d81-8e32-ecb1739a8913)
     
-    - Then launch the project
+    Then launch the project
 
 ## Author 👨‍💻
 The project was created by myself.
