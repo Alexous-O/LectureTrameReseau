@@ -1,41 +1,33 @@
-# Lecture Trame Reseau
+# Network Frame Reading
 
 
-## Description du Project 
+## Project Description 
 
-Le but de ce projet est d'analyser une trame réseau automatiquement via un script pour faciliter l'analyser et être beaucoup plus rapide et efficace. Le projet à été fait avec QT Creator, la trame se trouve dans le fichier "Trame.txt".
+The goal of this project is to analyze a network frame automatically via a script to facilitate the analysis and be much faster and more efficient. The project was made with QT Creator, the frame is in the file "Trame.txt".
 
-Il s'agit d'un code qui a été fait durement mes études de BTS SNIR, il a été utilisé pour d'autres projets. 
+This is a code that was made during my BTS SNIR studies, it was used for other projects.
 
-## Captures d'écran 📸
+## Screenshot 📸
 
-### Analyse effectué :
-![Analyse effectué](https://github.com/Alexous-O/LectureTrameReseau/assets/93724205/41d6cffa-1fac-490a-bb1b-1a21566ea269)
+###Analysis performed :
+![Analysis performed](![image](https://github.com/user-attachments/assets/562effb2-6028-40bf-a74c-b37d4887a2df)
 
-### Affichage :
-![Affichage](https://github.com/Alexous-O/LectureTrameReseau/assets/93724205/709b2871-2fa7-4944-91d0-33be687757ad)
+### Display :
+![Display](![image](https://github.com/user-attachments/assets/d707f925-61ea-4e27-b096-6446eb795eba)
 
+## Use
 
-## Usage
-
-1. Cloner le répertoire GitHub sur ta machine local <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="15" alt="git logo" />:
+1. Clone the GitHub repository to your local machine <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="15" alt="git logo" />:
 
     ```bash
     git clone https://github.com/Alexous-O/LectureTrameReseau.git
     ```
+    
+2. Open the project then start the analysis
+    - Paste the frame you want to analyze
 
-2. Ouvrir QT creator et ouvrir le fichier "LectureTrame.pro"
+![Frame](https://github.com/user-attachments/assets/5add3ca0-c416-4d81-8e32-ecb1739a8913)
+    - Then launch the project
 
-    ```bash
-    open file LectureTrame.pro
-    ```
-3. Choisir les paramètres de votre projet
-
-4. Run le project:
-
-    ```bash
-      F5
-    ```
-
-## Auteur 👨‍💻
-Le projet a été crée par moi-même.
+## Author 👨‍💻
+The project was created by myself.
