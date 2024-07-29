@@ -9,7 +9,7 @@ This is a code that was made during my BTS SNIR studies, it was used for other p
 
 ## Screenshot 📸
 
-###Analysis performed :
+### Analysis performed :
 
 ![Analysis performed](https://github.com/user-attachments/assets/562effb2-6028-40bf-a74c-b37d4887a2df)
 
@@ -32,6 +32,7 @@ This is a code that was made during my BTS SNIR studies, it was used for other p
     - Paste the frame you want to analyze
 
 ![Frame](https://github.com/user-attachments/assets/5add3ca0-c416-4d81-8e32-ecb1739a8913)
+    
     - Then launch the project
 
 ## Author 👨‍💻
