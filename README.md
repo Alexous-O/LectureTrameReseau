@@ -11,12 +11,12 @@ This is a code that was made during my BTS SNIR studies, it was used for other p
 
 ###Analysis performed :
 
-![Analysis performed](![image](https://github.com/user-attachments/assets/562effb2-6028-40bf-a74c-b37d4887a2df)
+![Analysis performed](https://github.com/user-attachments/assets/562effb2-6028-40bf-a74c-b37d4887a2df)
 
 
 ### Display :
 
-![Display](![image](https://github.com/user-attachments/assets/d707f925-61ea-4e27-b096-6446eb795eba)
+![Display](https://github.com/user-attachments/assets/d707f925-61ea-4e27-b096-6446eb795eba)
 
 
 
@@ -32,7 +32,7 @@ This is a code that was made during my BTS SNIR studies, it was used for other p
     - Paste the frame you want to analyze
 
 ![Frame](https://github.com/user-attachments/assets/5add3ca0-c416-4d81-8e32-ecb1739a8913)
-   - Then launch the project
+    - Then launch the project
 
 ## Author 👨‍💻
 The project was created by myself.
