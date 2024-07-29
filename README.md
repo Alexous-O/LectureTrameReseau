@@ -25,7 +25,7 @@ This is a code that was made during my BTS SNIR studies, it was used for other p
 1. Clone the GitHub repository to your local machine <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="15" alt="git logo" />:
 
     ```
-    git clone https://github.com/Alexous-O/LectureTrameReseau.git
+    git clone https://github.com/Alexous-O/Reading-Frame-Network.git
     ```
     
 2. Open the project then start the analysis
